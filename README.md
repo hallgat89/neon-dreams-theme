@@ -2,10 +2,10 @@
 
 A quite colourful terminal theme.
 
-[[/images/screen1.png|clear terminal]]
+![clear terminal](https://raw.githubusercontent.com/hallgat89/neon-dreams-theme/main/images/screen1.png)
 
-[[/images/screen2.png|midnight commander]]
+![mc](https://raw.githubusercontent.com/hallgat89/neon-dreams-theme/main/images/screen2.png)
 
-[[/images/screen3.png|lyrics]]
+![lyrics-in-terminal](https://raw.githubusercontent.com/hallgat89/neon-dreams-theme/main/images/screen3.png)
 
-[[/images/screen4.png|htop]]
+![htop](https://raw.githubusercontent.com/hallgat89/neon-dreams-theme/main/images/screen4.png)
