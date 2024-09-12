@@ -1,6 +1,8 @@
-[Configuration]
-Name=neon-dreams
-ColorCursor=#fbfbe6e60c0c
-ColorForeground=#fbfbe6e60c0c
-ColorBackground=#0e0e0b0b2020
-ColorPalette=#0e0e0b0b2020;#aaaa0909e4e4;#f1f10b0bd7d7;#0000d7d7ffff;#d6d69898ecec;#f9f99191f6f6;#0000d7d7ffff;#f5f5aeaefafa;#c5c5e5e5ecec;#8989a0a0a5a5;#aaaa0909e4e4;#0000d7d7ffff;#f8f86f6feeee;#0000d7d7ffff;#0000d7d7ffff;#c5c5e5e5ecec
+[Scheme]
+Name=NeonDreams
+ColorCursor=#fbe60c
+ColorForeground=#fbe60c
+ColorBackground=#0e0b20
+ColorPalette=#0e0b20;#aa09e4;#f10bd7;#00d7ff;#d698ec;#f991f6;#00d7ff;#f5aefa;#c5e5ec;#89a0a5;#aa09e4;#00d7ff;#f86fee;#00d7ff;#00d7ff;#c5e5ec
+ColorBold=#D8DEE9
+ColorBoldUseDefault=FALSE
